@@ -1,7 +1,6 @@
 # Hitters_-_Cars93_Project
 # Data_Science
-### Heaters_&_Cars Analysis  
-### Key_Features:  
+### Project Highlights
 1) **Data Cleaning & Processing**: Managed missing values, ensured data consistency, and prepared datasets for analysis.  
 2) **Comparative Analysis**: Explored patterns and correlations between key attributes from both datasets.  
 3) **Exploratory Data Analysis (EDA)**: Identified trends, distributions, and performance metrics through visualizations.  
