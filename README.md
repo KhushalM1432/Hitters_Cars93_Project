@@ -1,6 +1,6 @@
 ## Hitters & Cars93 Analysis | Data Science & Business Analytics
 
-## Data_Science
+## Data Science
 
 ### 📊 Project Overview
 
