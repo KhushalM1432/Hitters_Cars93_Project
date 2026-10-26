@@ -1,4 +1,4 @@
-## Hitters & Cars93 Analysis | Data Science & Business Analytics
+## Hitters & Cars93 Analysis | Data Science & Business Analytics Project | Python
 
 ## Data Science
 
